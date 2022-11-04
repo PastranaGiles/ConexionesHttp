@@ -1,0 +1,4 @@
+<resources>
+    <string name="app_name">ConexionHttp</string>
+    <string name="conectar">Conectar</string>
+</resources>
